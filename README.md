@@ -1,4 +1,4 @@
-# Kiosk_Keyboard
+# Touch Kiosk Keyboard
 Windows keyboard for kiosk mode include WebApp compatibility
 
 This keyboard was build to use in app in "Kiosk Mode"

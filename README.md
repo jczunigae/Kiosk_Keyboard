@@ -40,6 +40,13 @@ function callKeyboard(keyboardType){
     document.body.appendChild(ifrm);
 }
 ```
+### Example page
+You must install keyboard before test the page
+
+http://automateit.mx/keyboard/example.html
+
+<img src="http://automateit.mx/keyboard/keyboardExample.gif"/>
+
 ## Configuration
 
 - Config file (app.config)

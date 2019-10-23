@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualKeyBoard", "VirtualKeyBoard\VirtualKeyBoard.csproj", "{5D2779C7-7F01-4028-9022-08D85012D8B4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Keyboard_Installer", "Keyboard_Installer\Keyboard_Installer.vdproj", "{D50F5D7D-0C8C-4D67-94BF-CC1B5F321049}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D2779C7-7F01-4028-9022-08D85012D8B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D2779C7-7F01-4028-9022-08D85012D8B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D2779C7-7F01-4028-9022-08D85012D8B4}.Debug|x86.ActiveCfg = Debug|x86
+		{5D2779C7-7F01-4028-9022-08D85012D8B4}.Debug|x86.Build.0 = Debug|x86
+		{5D2779C7-7F01-4028-9022-08D85012D8B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D2779C7-7F01-4028-9022-08D85012D8B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D2779C7-7F01-4028-9022-08D85012D8B4}.Release|x86.ActiveCfg = Release|x86
+		{5D2779C7-7F01-4028-9022-08D85012D8B4}.Release|x86.Build.0 = Release|x86
+		{D50F5D7D-0C8C-4D67-94BF-CC1B5F321049}.Debug|Any CPU.ActiveCfg = Debug
+		{D50F5D7D-0C8C-4D67-94BF-CC1B5F321049}.Debug|x86.ActiveCfg = Debug
+		{D50F5D7D-0C8C-4D67-94BF-CC1B5F321049}.Release|Any CPU.ActiveCfg = Release
+		{D50F5D7D-0C8C-4D67-94BF-CC1B5F321049}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
